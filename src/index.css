@@ -1,0 +1,10 @@
+.repo {
+  width: 70vw;
+  margin: 10px auto;
+  text-align: center;
+  border: 2px solid green;
+}
+.link {
+  text-decoration: none;
+  color: unset;
+}
