@@ -17,5 +17,5 @@ This project is a webapp application built for Altschool's second semester exam.
 - Pagination: A custom Pagination component facilitates paginating through fetched data sets.
   
 #### Additional Notes
-. This project uses Vanilla CSS for styling, demonstrating understanding of CSS fundamentals. 
-. The codebase leverages custom hooks (useFetch and potentially Pagination) for reusability and cleaner component structure.
++ This project uses Vanilla CSS for styling, demonstrating understanding of CSS fundamentals. 
++ The codebase leverages custom hooks (useFetch and potentially Pagination) for reusability and cleaner component structure.
